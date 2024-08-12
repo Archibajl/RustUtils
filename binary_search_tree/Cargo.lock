@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "binary-search-tree"
+name = "binary_search_tree"
 version = "0.1.0"
